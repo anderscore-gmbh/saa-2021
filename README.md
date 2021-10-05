@@ -1,2 +1,2 @@
-# saa-2021
-anderScore Public Repo for SAA 2021
+# SAA 2021
+anderScore Public Repo for Software Architecture Alliance 2021
